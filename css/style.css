@@ -674,6 +674,7 @@ body:after {
         right: -25%; } }
 .img-face{
   height: 740px;
+  margin-left: 10px;
 }
 .section-title {
   position: relative;
